@@ -152,14 +152,14 @@ async function PaginaEditMaestra({ searchParams }) {
                                 size: 14
                             }, void 0, false, {
                                 fileName: "[project]/src/app/edit/page.tsx",
-                                lineNumber: 76,
+                                lineNumber: 78,
                                 columnNumber: 13
                             }, this),
                             " Volver al Inventario"
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/edit/page.tsx",
-                        lineNumber: 75,
+                        lineNumber: 77,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
@@ -172,7 +172,7 @@ async function PaginaEditMaestra({ searchParams }) {
                                 value: id
                             }, void 0, false, {
                                 fileName: "[project]/src/app/edit/page.tsx",
-                                lineNumber: 80,
+                                lineNumber: 82,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("header", {
@@ -187,18 +187,18 @@ async function PaginaEditMaestra({ searchParams }) {
                                                     size: 24
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/edit/page.tsx",
-                                                    lineNumber: 85,
+                                                    lineNumber: 87,
                                                     columnNumber: 28
                                                 }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$monitor$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Monitor$3e$__["Monitor"], {
                                                     size: 24
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/edit/page.tsx",
-                                                    lineNumber: 85,
+                                                    lineNumber: 87,
                                                     columnNumber: 49
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                lineNumber: 84,
+                                                lineNumber: 86,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
@@ -206,13 +206,13 @@ async function PaginaEditMaestra({ searchParams }) {
                                                 children: nuevo ? "Nuevo Equipo" : "Editar Ficha"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                lineNumber: 87,
+                                                lineNumber: 89,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/edit/page.tsx",
-                                        lineNumber: 83,
+                                        lineNumber: 85,
                                         columnNumber: 15
                                     }, this),
                                     id && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -224,12 +224,12 @@ async function PaginaEditMaestra({ searchParams }) {
                                                     size: 20
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/edit/page.tsx",
-                                                    lineNumber: 95,
+                                                    lineNumber: 97,
                                                     columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                lineNumber: 94,
+                                                lineNumber: 96,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -240,7 +240,7 @@ async function PaginaEditMaestra({ searchParams }) {
                                                         children: "QR Identificador"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/edit/page.tsx",
-                                                        lineNumber: 98,
+                                                        lineNumber: 100,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
@@ -249,7 +249,7 @@ async function PaginaEditMaestra({ searchParams }) {
                                                         className: "mx-auto"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/edit/page.tsx",
-                                                        lineNumber: 99,
+                                                        lineNumber: 101,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -260,25 +260,25 @@ async function PaginaEditMaestra({ searchParams }) {
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/edit/page.tsx",
-                                                        lineNumber: 100,
+                                                        lineNumber: 102,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                lineNumber: 97,
+                                                lineNumber: 99,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/edit/page.tsx",
-                                        lineNumber: 93,
+                                        lineNumber: 95,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/edit/page.tsx",
-                                lineNumber: 82,
+                                lineNumber: 84,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -297,14 +297,14 @@ async function PaginaEditMaestra({ searchParams }) {
                                                                 size: 10
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                                lineNumber: 109,
+                                                                lineNumber: 111,
                                                                 columnNumber: 114
                                                             }, this),
                                                             " Inventario #"
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/edit/page.tsx",
-                                                        lineNumber: 109,
+                                                        lineNumber: 111,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -314,13 +314,13 @@ async function PaginaEditMaestra({ searchParams }) {
                                                         className: "w-full p-3 bg-slate-50 rounded-xl border font-bold text-slate-700 outline-none focus:border-blue-500 transition-all"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/edit/page.tsx",
-                                                        lineNumber: 110,
+                                                        lineNumber: 112,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                lineNumber: 108,
+                                                lineNumber: 110,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -333,14 +333,14 @@ async function PaginaEditMaestra({ searchParams }) {
                                                                 size: 10
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                                lineNumber: 113,
+                                                                lineNumber: 115,
                                                                 columnNumber: 114
                                                             }, this),
                                                             " Resp. Área"
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/edit/page.tsx",
-                                                        lineNumber: 113,
+                                                        lineNumber: 115,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -349,19 +349,19 @@ async function PaginaEditMaestra({ searchParams }) {
                                                         className: "w-full p-3 bg-slate-50 rounded-xl border font-bold text-slate-700 outline-none focus:border-blue-500 transition-all"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/edit/page.tsx",
-                                                        lineNumber: 114,
+                                                        lineNumber: 116,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                lineNumber: 112,
+                                                lineNumber: 114,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/edit/page.tsx",
-                                        lineNumber: 107,
+                                        lineNumber: 109,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -374,14 +374,14 @@ async function PaginaEditMaestra({ searchParams }) {
                                                         size: 10
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/edit/page.tsx",
-                                                        lineNumber: 119,
+                                                        lineNumber: 121,
                                                         columnNumber: 112
                                                     }, this),
                                                     " Responsable Equipo"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                lineNumber: 119,
+                                                lineNumber: 121,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -390,13 +390,13 @@ async function PaginaEditMaestra({ searchParams }) {
                                                 className: "w-full p-3 bg-slate-50 rounded-xl border font-bold text-slate-700 outline-none focus:border-blue-500 transition-all"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                lineNumber: 120,
+                                                lineNumber: 122,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/edit/page.tsx",
-                                        lineNumber: 118,
+                                        lineNumber: 120,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -407,7 +407,7 @@ async function PaginaEditMaestra({ searchParams }) {
                                                 children: "Marca y Modelo"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                lineNumber: 124,
+                                                lineNumber: 126,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -416,13 +416,13 @@ async function PaginaEditMaestra({ searchParams }) {
                                                 className: "w-full p-3 bg-slate-50 rounded-xl border font-bold text-slate-700 outline-none focus:border-blue-500 transition-all"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                lineNumber: 125,
+                                                lineNumber: 127,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/edit/page.tsx",
-                                        lineNumber: 123,
+                                        lineNumber: 125,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -438,14 +438,14 @@ async function PaginaEditMaestra({ searchParams }) {
                                                                 size: 10
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                                lineNumber: 130,
+                                                                lineNumber: 132,
                                                                 columnNumber: 114
                                                             }, this),
                                                             " Procesador"
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/edit/page.tsx",
-                                                        lineNumber: 130,
+                                                        lineNumber: 132,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -454,13 +454,13 @@ async function PaginaEditMaestra({ searchParams }) {
                                                         className: "w-full p-3 bg-slate-50 rounded-xl border font-bold text-slate-700 text-xs outline-none focus:border-blue-500"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/edit/page.tsx",
-                                                        lineNumber: 131,
+                                                        lineNumber: 133,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                lineNumber: 129,
+                                                lineNumber: 131,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -473,14 +473,14 @@ async function PaginaEditMaestra({ searchParams }) {
                                                                 size: 10
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                                lineNumber: 134,
+                                                                lineNumber: 136,
                                                                 columnNumber: 114
                                                             }, this),
                                                             " RAM"
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/edit/page.tsx",
-                                                        lineNumber: 134,
+                                                        lineNumber: 136,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -489,19 +489,19 @@ async function PaginaEditMaestra({ searchParams }) {
                                                         className: "w-full p-3 bg-slate-50 rounded-xl border font-bold text-slate-700 text-xs outline-none focus:border-blue-500"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/edit/page.tsx",
-                                                        lineNumber: 135,
+                                                        lineNumber: 137,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                lineNumber: 133,
+                                                lineNumber: 135,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/edit/page.tsx",
-                                        lineNumber: 128,
+                                        lineNumber: 130,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -517,14 +517,14 @@ async function PaginaEditMaestra({ searchParams }) {
                                                                 size: 10
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                                lineNumber: 141,
+                                                                lineNumber: 143,
                                                                 columnNumber: 114
                                                             }, this),
                                                             " Disco"
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/edit/page.tsx",
-                                                        lineNumber: 141,
+                                                        lineNumber: 143,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -533,13 +533,13 @@ async function PaginaEditMaestra({ searchParams }) {
                                                         className: "w-full p-3 bg-slate-50 rounded-xl border font-bold text-slate-700 text-xs outline-none focus:border-blue-500"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/edit/page.tsx",
-                                                        lineNumber: 142,
+                                                        lineNumber: 144,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                lineNumber: 140,
+                                                lineNumber: 142,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -552,14 +552,14 @@ async function PaginaEditMaestra({ searchParams }) {
                                                                 size: 10
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                                lineNumber: 145,
+                                                                lineNumber: 147,
                                                                 columnNumber: 114
                                                             }, this),
                                                             " Monitor"
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/edit/page.tsx",
-                                                        lineNumber: 145,
+                                                        lineNumber: 147,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -568,19 +568,19 @@ async function PaginaEditMaestra({ searchParams }) {
                                                         className: "w-full p-3 bg-slate-50 rounded-xl border font-bold text-slate-700 text-xs outline-none focus:border-blue-500"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/edit/page.tsx",
-                                                        lineNumber: 146,
+                                                        lineNumber: 148,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                lineNumber: 144,
+                                                lineNumber: 146,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/edit/page.tsx",
-                                        lineNumber: 139,
+                                        lineNumber: 141,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -593,14 +593,14 @@ async function PaginaEditMaestra({ searchParams }) {
                                                         size: 10
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/edit/page.tsx",
-                                                        lineNumber: 151,
+                                                        lineNumber: 153,
                                                         columnNumber: 112
                                                     }, this),
                                                     " Periféricos"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                lineNumber: 151,
+                                                lineNumber: 153,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -609,13 +609,13 @@ async function PaginaEditMaestra({ searchParams }) {
                                                 className: "w-full p-3 bg-slate-50 rounded-xl border font-bold text-slate-700 outline-none focus:border-blue-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                lineNumber: 152,
+                                                lineNumber: 154,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/edit/page.tsx",
-                                        lineNumber: 150,
+                                        lineNumber: 152,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -628,14 +628,14 @@ async function PaginaEditMaestra({ searchParams }) {
                                                         size: 10
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/edit/page.tsx",
-                                                        lineNumber: 156,
+                                                        lineNumber: 158,
                                                         columnNumber: 112
                                                     }, this),
                                                     " Observaciones"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                lineNumber: 156,
+                                                lineNumber: 158,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("textarea", {
@@ -645,13 +645,13 @@ async function PaginaEditMaestra({ searchParams }) {
                                                 className: "w-full p-3 bg-slate-50 rounded-xl border font-bold text-slate-700 text-xs outline-none focus:border-blue-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                lineNumber: 157,
+                                                lineNumber: 159,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/edit/page.tsx",
-                                        lineNumber: 155,
+                                        lineNumber: 157,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -664,7 +664,7 @@ async function PaginaEditMaestra({ searchParams }) {
                                                         size: 18
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/edit/page.tsx",
-                                                        lineNumber: 162,
+                                                        lineNumber: 164,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -672,13 +672,13 @@ async function PaginaEditMaestra({ searchParams }) {
                                                         children: "Requiere Mantenimiento"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/edit/page.tsx",
-                                                        lineNumber: 163,
+                                                        lineNumber: 165,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                lineNumber: 161,
+                                                lineNumber: 163,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -688,19 +688,19 @@ async function PaginaEditMaestra({ searchParams }) {
                                                 className: "w-5 h-5 accent-red-600 rounded-lg shadow-sm"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                lineNumber: 165,
+                                                lineNumber: 167,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/edit/page.tsx",
-                                        lineNumber: 160,
+                                        lineNumber: 162,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/edit/page.tsx",
-                                lineNumber: 106,
+                                lineNumber: 108,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -711,7 +711,7 @@ async function PaginaEditMaestra({ searchParams }) {
                                         size: 18
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/edit/page.tsx",
-                                        lineNumber: 170,
+                                        lineNumber: 172,
                                         columnNumber: 15
                                     }, this),
                                     " ",
@@ -719,24 +719,24 @@ async function PaginaEditMaestra({ searchParams }) {
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/edit/page.tsx",
-                                lineNumber: 169,
+                                lineNumber: 171,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/edit/page.tsx",
-                        lineNumber: 79,
+                        lineNumber: 81,
                         columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/edit/page.tsx",
-                lineNumber: 74,
+                lineNumber: 76,
                 columnNumber: 9
             }, this)
         }, void 0, false, {
             fileName: "[project]/src/app/edit/page.tsx",
-            lineNumber: 73,
+            lineNumber: 75,
             columnNumber: 7
         }, this);
     }
@@ -759,7 +759,7 @@ async function PaginaEditMaestra({ searchParams }) {
                             children: "Inventario Juzgado"
                         }, void 0, false, {
                             fileName: "[project]/src/app/edit/page.tsx",
-                            lineNumber: 190,
+                            lineNumber: 192,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -771,7 +771,7 @@ async function PaginaEditMaestra({ searchParams }) {
                                     children: "Todos"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/edit/page.tsx",
-                                    lineNumber: 192,
+                                    lineNumber: 194,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
@@ -780,7 +780,7 @@ async function PaginaEditMaestra({ searchParams }) {
                                     children: "Urgente"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/edit/page.tsx",
-                                    lineNumber: 193,
+                                    lineNumber: 195,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
@@ -791,26 +791,26 @@ async function PaginaEditMaestra({ searchParams }) {
                                             size: 16
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/edit/page.tsx",
-                                            lineNumber: 195,
+                                            lineNumber: 197,
                                             columnNumber: 17
                                         }, this),
                                         " Nuevo"
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/edit/page.tsx",
-                                    lineNumber: 194,
+                                    lineNumber: 196,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/edit/page.tsx",
-                            lineNumber: 191,
+                            lineNumber: 193,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/edit/page.tsx",
-                    lineNumber: 189,
+                    lineNumber: 191,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -827,12 +827,12 @@ async function PaginaEditMaestra({ searchParams }) {
                                                 size: 22
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/edit/page.tsx",
-                                                lineNumber: 205,
+                                                lineNumber: 207,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/edit/page.tsx",
-                                            lineNumber: 204,
+                                            lineNumber: 206,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -847,7 +847,7 @@ async function PaginaEditMaestra({ searchParams }) {
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/edit/page.tsx",
-                                                    lineNumber: 208,
+                                                    lineNumber: 210,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -858,19 +858,19 @@ async function PaginaEditMaestra({ searchParams }) {
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/edit/page.tsx",
-                                                    lineNumber: 209,
+                                                    lineNumber: 211,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/edit/page.tsx",
-                                            lineNumber: 207,
+                                            lineNumber: 209,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/edit/page.tsx",
-                                    lineNumber: 203,
+                                    lineNumber: 205,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
@@ -880,34 +880,34 @@ async function PaginaEditMaestra({ searchParams }) {
                                         size: 18
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/edit/page.tsx",
-                                        lineNumber: 213,
+                                        lineNumber: 215,
                                         columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/edit/page.tsx",
-                                    lineNumber: 212,
+                                    lineNumber: 214,
                                     columnNumber: 15
                                 }, this)
                             ]
                         }, pc.id, true, {
                             fileName: "[project]/src/app/edit/page.tsx",
-                            lineNumber: 202,
+                            lineNumber: 204,
                             columnNumber: 13
                         }, this))
                 }, void 0, false, {
                     fileName: "[project]/src/app/edit/page.tsx",
-                    lineNumber: 200,
+                    lineNumber: 202,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/app/edit/page.tsx",
-            lineNumber: 188,
+            lineNumber: 190,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/edit/page.tsx",
-        lineNumber: 187,
+        lineNumber: 189,
         columnNumber: 5
     }, this);
 }
