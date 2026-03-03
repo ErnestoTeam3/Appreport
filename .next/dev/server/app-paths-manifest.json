@@ -1,4 +1,6 @@
 {
   "/edit/page": "app/edit/page.js",
-  "/page": "app/page.js"
+  "/escanear/page": "app/escanear/page.js",
+  "/page": "app/page.js",
+  "/view/page": "app/view/page.js"
 }

@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { QrCode, ShieldCheck, Settings2 } from "lucide-react";
+import { QrCode, ShieldCheck, Settings2, LayoutList } from "lucide-react";
 
 export default function Home() {
   return (
@@ -38,7 +38,7 @@ export default function Home() {
             </p>
           </Link>
 
-          {/* BOTÓN 2: GESTIÓN / EDITAR (NUEVO) */}
+          {/* BOTÓN 2: GESTIÓN / EDITAR */}
           <Link 
             href="/edit" 
             className="group flex items-center justify-between w-full p-8 bg-zinc-900 rounded-[2rem] shadow-xl transition-all hover:bg-black active:scale-[0.98] border border-zinc-800"
@@ -52,7 +52,7 @@ export default function Home() {
                   Gestión Total
                 </span>
                 <span className="text-zinc-500 text-[10px] font-bold uppercase tracking-widest">
-                  Ver y Editar Inventario
+                  Editar Inventario
                 </span>
               </div>
             </div>
@@ -61,6 +61,28 @@ export default function Home() {
             </div>
           </Link>
           
+          {/* BOTÓN 3: CONSULTA (CORREGIDO A OSCURO) */}
+          <Link 
+            href="/view" 
+            className="group flex items-center justify-between w-full p-8 bg-zinc-900 rounded-[2rem] shadow-xl transition-all hover:bg-black active:scale-[0.98] border border-zinc-800"
+          >
+            <div className="flex items-center gap-5">
+              <div className="p-4 bg-zinc-800 rounded-2xl text-emerald-500 group-hover:text-emerald-400 transition-colors">
+                <LayoutList size={28} />
+              </div>
+              <div className="text-left">
+                <span className="text-white text-lg font-black uppercase tracking-tight block">
+                  Consulta de Inventario
+                </span>
+                <span className="text-zinc-500 text-[10px] font-bold uppercase tracking-widest">
+                  Solo Visualización
+                </span>
+              </div>
+            </div>
+            <div className="h-10 w-10 rounded-full border border-zinc-700 flex items-center justify-center text-zinc-500 group-hover:translate-x-1 transition-transform">
+              →
+            </div>
+          </Link>
 
         </div>
 
