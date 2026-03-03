@@ -61,7 +61,11 @@ export default async function PaginaEditMaestra({
 
   // --- VISTA DE FORMULARIO ---
   if (id || nuevo) {
-    let data = { id: "", numero_inventario: "", responsable_inventario: "", responsable_area: "", marca_modelo: "", almacenamiento: "", memoria_ram: "", procesador: "", monitor: "", mouse_teclado: "", observacion: "", requiere_mantenimiento: false };
+    let data: any = {}; 
+if (id) {
+  const result = await db.query('SELECT * FROM computadoras WHERE id = $1', [id]);
+  data = result.rows[0];
+}
     
     if (id) {
       const result = await db.query('SELECT * FROM computadoras WHERE id = $1', [id]);
