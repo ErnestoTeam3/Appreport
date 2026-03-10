@@ -15,10 +15,13 @@ export default function EscanearQR() {
     const scanner = new Html5QrcodeScanner(
       "reader",
       {
-        fps: 15, // Un poco más rápido para mayor fluidez
+        fps: 15,
         qrbox: { width: 250, height: 250 },
-        rememberLastUsedCamera: true,
-        supportedScanTypes: [0] // Prioriza la cámara trasera
+        rememberLastUsedCamera: false, // Desactivado para que videoConstraints tenga efecto
+        supportedScanTypes: [0],
+        videoConstraints: {
+          facingMode: { exact: "environment" } // Fuerza la cámara TRASERA
+        }
       },
       /* verbose= */ false
     );
